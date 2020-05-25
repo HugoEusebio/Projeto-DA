@@ -1,0 +1,4 @@
+C:\Users\Hugo\Desktop\Escola\2ºSemestre\Desenvolvimento de aplicaçoes\Ficha4 DA\Ficha4 DA\obj\Debug\Ficha4 DA.csprojAssemblyReference.cache
+C:\Users\Hugo\Desktop\Escola\2ºSemestre\Desenvolvimento de aplicaçoes\Ficha4 DA\Ficha4 DA\obj\Debug\Ficha4_DA.Form1.resources
+C:\Users\Hugo\Desktop\Escola\2ºSemestre\Desenvolvimento de aplicaçoes\Ficha4 DA\Ficha4 DA\obj\Debug\Ficha4_DA.Properties.Resources.resources
+C:\Users\Hugo\Desktop\Escola\2ºSemestre\Desenvolvimento de aplicaçoes\Ficha4 DA\Ficha4 DA\obj\Debug\Ficha4 DA.csproj.GenerateResource.cache

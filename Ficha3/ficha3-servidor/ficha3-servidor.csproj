@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>ficha3_servidor</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ProtocolSI">
+      <HintPath>..\..\..\..\Desktop\ProtocolSI_alunos\ProtocolSI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

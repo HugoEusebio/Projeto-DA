@@ -1,0 +1,20 @@
+C:\Users\Andre\Desktop\FichaPratica5_base\FichaPratica5\FichaPratica5\obj\Debug\FichaPratica5.csprojAssemblyReference.cache
+C:\Users\Andre\Desktop\FichaPratica5_base\FichaPratica5\FichaPratica5\obj\Debug\FichaPratica4.FichaPratica5.resources
+C:\Users\Andre\Desktop\FichaPratica5_base\FichaPratica5\FichaPratica5\obj\Debug\FichaPratica4.Properties.Resources.resources
+C:\Users\Andre\Desktop\FichaPratica5_base\FichaPratica5\FichaPratica5\obj\Debug\FichaPratica5.csproj.GenerateResource.cache
+C:\Users\Andre\Desktop\FichaPratica5_base\FichaPratica5\FichaPratica5\obj\Debug\FichaPratica5.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\FichaPratica5_base\FichaPratica5\FichaPratica5\obj\Debug\FichaPratica4.exe
+C:\Users\Andre\Desktop\FichaPratica5_base\FichaPratica5\FichaPratica5\obj\Debug\FichaPratica4.pdb
+C:\Users\Andre\Desktop\FichaPratica5_base\FichaPratica5\FichaPratica5\bin\Debug\FichaPratica4.exe.config
+C:\Users\Andre\Desktop\FichaPratica5_base\FichaPratica5\FichaPratica5\bin\Debug\FichaPratica4.exe
+C:\Users\Andre\Desktop\FichaPratica5_base\FichaPratica5\FichaPratica5\bin\Debug\FichaPratica4.pdb
+C:\Users\Andre\Desktop\Universidade\Disciplinas de 2ºano - 2ºsemestre\Topicos de Segurança\FichaPratica5_base\FichaPratica5\FichaPratica5\bin\Debug\FichaPratica4.exe.config
+C:\Users\Andre\Desktop\Universidade\Disciplinas de 2ºano - 2ºsemestre\Topicos de Segurança\FichaPratica5_base\FichaPratica5\FichaPratica5\bin\Debug\FichaPratica4.exe
+C:\Users\Andre\Desktop\Universidade\Disciplinas de 2ºano - 2ºsemestre\Topicos de Segurança\FichaPratica5_base\FichaPratica5\FichaPratica5\bin\Debug\FichaPratica4.pdb
+C:\Users\Andre\Desktop\Universidade\Disciplinas de 2ºano - 2ºsemestre\Topicos de Segurança\FichaPratica5_base\FichaPratica5\FichaPratica5\obj\Debug\FichaPratica5.csprojAssemblyReference.cache
+C:\Users\Andre\Desktop\Universidade\Disciplinas de 2ºano - 2ºsemestre\Topicos de Segurança\FichaPratica5_base\FichaPratica5\FichaPratica5\obj\Debug\FichaPratica4.FichaPratica5.resources
+C:\Users\Andre\Desktop\Universidade\Disciplinas de 2ºano - 2ºsemestre\Topicos de Segurança\FichaPratica5_base\FichaPratica5\FichaPratica5\obj\Debug\FichaPratica4.Properties.Resources.resources
+C:\Users\Andre\Desktop\Universidade\Disciplinas de 2ºano - 2ºsemestre\Topicos de Segurança\FichaPratica5_base\FichaPratica5\FichaPratica5\obj\Debug\FichaPratica5.csproj.GenerateResource.cache
+C:\Users\Andre\Desktop\Universidade\Disciplinas de 2ºano - 2ºsemestre\Topicos de Segurança\FichaPratica5_base\FichaPratica5\FichaPratica5\obj\Debug\FichaPratica5.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\Universidade\Disciplinas de 2ºano - 2ºsemestre\Topicos de Segurança\FichaPratica5_base\FichaPratica5\FichaPratica5\obj\Debug\FichaPratica4.exe
+C:\Users\Andre\Desktop\Universidade\Disciplinas de 2ºano - 2ºsemestre\Topicos de Segurança\FichaPratica5_base\FichaPratica5\FichaPratica5\obj\Debug\FichaPratica4.pdb

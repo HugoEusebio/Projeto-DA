@@ -1,0 +1,12 @@
+C:\Users\Hugo\source\repos\Ficha3\Ficha3\obj\Debug\Ficha3.csprojAssemblyReference.cache
+C:\Users\Hugo\source\repos\Ficha3\Ficha3\obj\Debug\Ficha3.Form1.resources
+C:\Users\Hugo\source\repos\Ficha3\Ficha3\obj\Debug\Ficha3.Properties.Resources.resources
+C:\Users\Hugo\source\repos\Ficha3\Ficha3\obj\Debug\Ficha3.csproj.GenerateResource.cache
+C:\Users\Hugo\source\repos\Ficha3\Ficha3\bin\Debug\Ficha3.exe.config
+C:\Users\Hugo\source\repos\Ficha3\Ficha3\bin\Debug\Ficha3.exe
+C:\Users\Hugo\source\repos\Ficha3\Ficha3\bin\Debug\Ficha3.pdb
+C:\Users\Hugo\source\repos\Ficha3\Ficha3\bin\Debug\Microsoft.OData.Edm.dll
+C:\Users\Hugo\source\repos\Ficha3\Ficha3\bin\Debug\Microsoft.OData.Edm.xml
+C:\Users\Hugo\source\repos\Ficha3\Ficha3\obj\Debug\Ficha3.csproj.CopyComplete
+C:\Users\Hugo\source\repos\Ficha3\Ficha3\obj\Debug\Ficha3.exe
+C:\Users\Hugo\source\repos\Ficha3\Ficha3\obj\Debug\Ficha3.pdb

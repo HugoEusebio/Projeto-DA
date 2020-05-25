@@ -1,0 +1,9 @@
+C:\Users\Hugo\source\repos\Ficha2\Ficha2 TS\bin\Debug\Ficha2 TS.exe.config
+C:\Users\Hugo\source\repos\Ficha2\Ficha2 TS\bin\Debug\Ficha2 TS.exe
+C:\Users\Hugo\source\repos\Ficha2\Ficha2 TS\bin\Debug\Ficha2 TS.pdb
+C:\Users\Hugo\source\repos\Ficha2\Ficha2 TS\obj\Debug\Ficha2 TS.csprojAssemblyReference.cache
+C:\Users\Hugo\source\repos\Ficha2\Ficha2 TS\obj\Debug\Ficha2_TS.Form1.resources
+C:\Users\Hugo\source\repos\Ficha2\Ficha2 TS\obj\Debug\Ficha2_TS.Properties.Resources.resources
+C:\Users\Hugo\source\repos\Ficha2\Ficha2 TS\obj\Debug\Ficha2 TS.csproj.GenerateResource.cache
+C:\Users\Hugo\source\repos\Ficha2\Ficha2 TS\obj\Debug\Ficha2 TS.exe
+C:\Users\Hugo\source\repos\Ficha2\Ficha2 TS\obj\Debug\Ficha2 TS.pdb
